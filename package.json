@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yajamon/chrome-ext-semi-automatic-ticket-report/issues"
   },
-  "homepage": "https://github.com/yajamon/chrome-ext-semi-automatic-ticket-report#readme"
+  "homepage": "https://github.com/yajamon/chrome-ext-semi-automatic-ticket-report#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
 }
