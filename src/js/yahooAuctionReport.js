@@ -27,3 +27,9 @@ for (let index = 0; index < select.options.length; index++) {
     break;
   }
 }
+// Formの送信
+/**
+ * @type {HTMLFormElement}
+ */
+const form = document.forms[0];
+form.submit();
