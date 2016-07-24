@@ -3,7 +3,7 @@
     "name": "semiAutomaticTicketReport",
     "version": "0.0.0",
 
-    "description": "シンプルなカウンター拡張",
+    "description": "アイドルマスターシンデレラガールズ4th Liveに落選した者が転売チケットを目の当たりにして怒りの違反報告するための拡張。",
     "icons": {
         "16": "img/icons/icon16.png",
         "48": "img/icons/icon48.png",
