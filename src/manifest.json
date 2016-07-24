@@ -11,7 +11,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["http://auctions.yahoo.co.jp/jp/show/violation_report"],
+            "matches": ["http://auctions.yahoo.co.jp/jp/show/violation_report?*"],
             "js": ["js/yahooAuctionReport.js"]
         }
     ]
